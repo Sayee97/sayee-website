@@ -1,22 +1,18 @@
 {
   "files": {
-    "main.css": "/sayee-website/static/css/main.76ff40f4.chunk.css",
+    "main.css": "/sayee-website/static/css/main.95f6058f.chunk.css",
     "main.js": "/sayee-website/static/js/main.faca4c40.chunk.js",
-    "main.js.map": "/sayee-website/static/js/main.faca4c40.chunk.js.map",
     "runtime-main.js": "/sayee-website/static/js/runtime-main.a2a6188f.js",
-    "runtime-main.js.map": "/sayee-website/static/js/runtime-main.a2a6188f.js.map",
     "static/js/2.36b75289.chunk.js": "/sayee-website/static/js/2.36b75289.chunk.js",
-    "static/js/2.36b75289.chunk.js.map": "/sayee-website/static/js/2.36b75289.chunk.js.map",
     "index.html": "/sayee-website/index.html",
-    "precache-manifest.970a53dbfb3c96798044cfe19c87471f.js": "/sayee-website/precache-manifest.970a53dbfb3c96798044cfe19c87471f.js",
+    "precache-manifest.9d2443d8410085e59042bd0ba33d5ce1.js": "/sayee-website/precache-manifest.9d2443d8410085e59042bd0ba33d5ce1.js",
     "service-worker.js": "/sayee-website/service-worker.js",
-    "static/css/main.76ff40f4.chunk.css.map": "/sayee-website/static/css/main.76ff40f4.chunk.css.map",
     "static/js/2.36b75289.chunk.js.LICENSE.txt": "/sayee-website/static/js/2.36b75289.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a2a6188f.js",
     "static/js/2.36b75289.chunk.js",
-    "static/css/main.76ff40f4.chunk.css",
+    "static/css/main.95f6058f.chunk.css",
     "static/js/main.faca4c40.chunk.js"
   ]
 }
