@@ -73,12 +73,12 @@ figure {
   position: relative; }
 
 #colorlib-aside {
-  padding-top: 1em;
+  padding-top: 3em;
   padding-bottom: 40px;
   float: left;
   width: 300px;
   position: fixed;
-  overflow: scroll;
+  overflow-y: scroll;
   z-index: 1001;
   background: #f2f3f7;
   -webkit-transition: 0.5s;
@@ -102,17 +102,15 @@ figure {
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     border-radius: 50%; }
-  #colorlib-aside .email {
-    display: block;
-    font-size: 12px;}
-  #colorlib-aside .number {
+  #colorlib-aside .position {
     display: block;
     margin-bottom: 2em;
-    font-size: 12px;}  
+    font-size: 12px;
+    text-transform: uppercase; }
   #colorlib-aside #colorlib-logo {
     text-align: right;
     font-weight: 700;
-    font-size: 30px;
+    font-size: 22px;
     margin-bottom: .5em;
     display: block;
     width: 100%; }
@@ -237,7 +235,7 @@ figure {
   background: #fff url(../images/loader.gif) no-repeat center center;
   width: 100%;
   float: left;
-  margin-bottom: 2em;
+  margin-bottom: 10em;
   clear: both; }
   #colorlib-hero .flexslider {
     border: none;
@@ -382,8 +380,8 @@ body.offcanvas {
 .colorlib-about,
 .colorlib-services,
 .colorlib-contact {
-  padding-top: 2em;
-  padding-bottom: 2em;
+  padding-top: 4em;
+  padding-bottom: 9em;
   clear: both;
   width: 100%;
   display: block; }
@@ -407,7 +405,7 @@ body.offcanvas {
 
 .colorlib-heading {
   font-size: 18px;
-  margin-bottom: 2em;
+  margin-bottom: 4em;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 5px;

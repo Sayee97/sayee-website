@@ -187,6 +187,7 @@ figure {
 
 	width: 300px;
 	position: fixed;
+	overflow-y: scroll;
 	z-index: 1001;
 	background: $brand-gray;
 	@include transition(.5s);
@@ -206,7 +207,8 @@ figure {
 	.position{
 		display: block;
 		margin-bottom: 2em;
-		font-size: 10px;
+		font-size: 12px;
+		text-transform: uppercase;
 	}
 	#colorlib-logo {
 		text-align: right;
